@@ -50,9 +50,5 @@ This project is part of my daily frontend practice to improve my skills in:
 **Sunil J S**
 Frontend Learner 🚀
 
----
 
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
 
