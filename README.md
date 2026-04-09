@@ -9,12 +9,6 @@ It shows a bouncing ball effect on a ground, simulating a football movement.
 
 ---
 
-## 🚀 Live Demo
-
-👉 https://sunilgowda2003.github.io/ball-animation/
-
----
-
 ## 📌 Features
 
 * ⚽ Football-style circular design
