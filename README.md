@@ -14,7 +14,7 @@ It shows a bouncing ball effect on a ground, simulating a football movement.
 * ⚽ Football-style circular design
 * 🟩 Ground with realistic placement
 * 🔄 Smooth bouncing animation using CSS
-* 💡 Beginner-friendly project
+* 💡 Beginner-friendly project 
 
 ---
 
