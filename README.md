@@ -3,7 +3,7 @@ Simple football animation using HTML and CSS with bouncing effect on ground. Cre
 
 
 # ⚽ Ball Animation (HTML & CSS)
-
+ 
 This project is a simple football animation created using basic **HTML and CSS**.
 It shows a bouncing ball effect on a ground, simulating a football movement.
 
